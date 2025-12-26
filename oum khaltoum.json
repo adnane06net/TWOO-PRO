@@ -23,7 +23,7 @@
     
 	"MAX": {
 	  "banner":"2965c66e51e81699",
-	  "interstitial":"5f800fe28a3ab2d4",
+	  "interstitial":"fffff",
 	  "native": "c6258babf97ca328",
 	  "appopen" : "d1ac3378c8713d81"
 	},
@@ -51,6 +51,7 @@
     }
   }
 }
+
 
 
 
